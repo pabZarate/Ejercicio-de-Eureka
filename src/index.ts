@@ -26,7 +26,7 @@ while (contador1 < 3) {
     }
   }
 }
-let claveIngresada;
+
 if (claveIngresada !== clave) {
   alert("Se han agotado los intentos permitidos.");
   console.log("Se han agotado los intentos permitidos.");
